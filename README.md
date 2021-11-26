@@ -1,12 +1,12 @@
 # Project Title
 
-Evaluate a news article with Natural Language Processing
+Travel Application
 
 ## Description
 
-At this project we did three main things:
+At this project we did Four main things:
 1. setting up a wepback environment.
-2. setting up a Sentiment Analysis API.
+2. setting up different external apis.
 3. Unit Testing using Jest Framework.
 4. Setting up service workers.
 
@@ -24,7 +24,7 @@ service workers
 
 ### Installing
 
-You can download the project using the zip file.
+You can download the project using the zip file or clone it.
 
 ## Authors
 
